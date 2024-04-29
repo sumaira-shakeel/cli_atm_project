@@ -1,0 +1,18 @@
+{
+  "name": "5sw8_atm",
+  "version": "1.0.0",
+  "description": "A project of typescript and node js",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sumaira shakeel",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  }
+}
